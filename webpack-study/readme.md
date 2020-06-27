@@ -6,12 +6,12 @@
     webpack-cli  
     webpack-dev-server
 
--   Second step:
-    六件套(通常)
-    处理 JS -> ES6 ES7 ES8 装饰器
-    ES6
-    babel-loader@7
-    babel-core
+-   Second step:  
+    六件套(通常)  
+    处理 JS -> ES6 ES7 ES8 装饰器  
+    ES6  
+    babel-loader@7  
+    babel-core  
     bable-preset-env  
     ES7  
     +babel-plugin-transform-runtime  
