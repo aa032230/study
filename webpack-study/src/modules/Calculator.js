@@ -3,7 +3,6 @@ import { trimSpace, digitalize, getTarget } from '../utils/tools'
 import ResultComponent from '../components/Result'
 import InputGroupComponent from '../components/InputGroup'
 import ButtonGroupComponent from '../components/ButtonGroup'
-
 @compute
 export default class Calculator {
     constructor(el) {

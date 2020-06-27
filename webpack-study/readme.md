@@ -1,4 +1,5 @@
-#webpack 基本配置
+#webpack 基本配置  
+##用一个计算器小实例配合 webpack 搭建一个模块化、组件化的项目
 
 -   First step:  
     三大件  
